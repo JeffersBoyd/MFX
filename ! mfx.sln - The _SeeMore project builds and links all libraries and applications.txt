@@ -1,0 +1,2 @@
+- This file is shown in the VS Solution Explorer.
+- This file`s name describes the __mfx project
